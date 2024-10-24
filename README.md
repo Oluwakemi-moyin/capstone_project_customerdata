@@ -1,0 +1,2 @@
+# capstone_project_customerdata
+Customer Segmentation
