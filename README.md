@@ -1,5 +1,21 @@
-# Capstone_Project_Customerdata
-## Customer Segmentation for a Subscription Service
+# Customer Segmentation for a Subscription Service
+
+[Project Overview](#project-overview) 
+
+[Problem](#problem)
+
+[Process](#process)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Visualization](#data-visualization)
+
+[Inferences](#inferences)
+
+[Conclusion](#conclusion)
+
+[Tables](#tables)
+
 
 ### Project Overview
 ---
@@ -11,10 +27,10 @@ This project involves analyzing customer data for a subscription service to iden
 In this project, I was tasked with;
 1. Analyzing Customer data for a subscription service
 2. Exploring Customer data to uncover key insights such as:
-   i. Customer behavior,
-   ii. Track subscription types,
-   iii. identify key trends in cancellations and renewals,
-   iv. Regional Performances
+   i. Customer Behavior,
+  ii. Track subscription types,
+ iii. identify key trends in cancellations and renewals,
+  iv. Regional Performances.
    
 ### Process
 ---
@@ -36,4 +52,66 @@ insights.
 recommendations on next steps.
 
 
+                                                               |A|
+## Customer Behavior
+---
+
+### Exploratory Data Analysis
+---
+Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset.
+
+
+
+
+
+### Data Visualization
+---
+
+
+
+   
+### Inferences
+---
+1. Overall Sales Trends by Month
+   
+2. Regional Performance
+   
+ 
+4. Insights(Strategic Implications to the Business)
+  
+ 
+### Conclusion
+---
+
+
+                                                               |B|
+## Customer Behavior
+---
+
+### Exploratory Data Analysis
+---
+Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset.
+
+
+
+
+
+### Data Visualization
+---
+
+
+
+   
+### Inferences
+---
+1. Overall Sales Trends by Month
+   
+2. Regional Performance
+   
+ 
+4. Insights(Strategic Implications to the Business)
+  
+ 
+### Conclusion
+---
 
