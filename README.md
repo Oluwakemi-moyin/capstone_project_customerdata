@@ -43,14 +43,14 @@ In this project, I was tasked with;
 1. Subscription Type- these are the types of subscription the Retail store offers 
 2. Subscription Start- this is the date when the customer subscription type commenced
 3. Subscription End- this is the date when the subscription ends
-4. Subscription Duration
+4. Subscription Duration- this is how long the subscription service is for. Calculated as; (Subscription end- Subscription start)
 5. Cancellations
 6. Region
 7. Revenue
 
 ### Tools Used
 ---
-1. Microsoft Excel [Download here][Uploading LITA Capstone Dataset.xlsx…]()
+1. Microsoft Excel [Download here][LITA Capstone Dataset.xlsx](https://github.com/user-attachments/files/17551135/LITA.Capstone.Dataset.xlsx)
    - for Data cleaning
    - for Summarisation of the data
    - for Visualisation
