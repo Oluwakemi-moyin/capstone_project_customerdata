@@ -39,7 +39,7 @@ In this project, I was tasked with;
    - Average Revenue by Region, Subscription type
    - Top 10 Customers by Revenue
    - Average subscription duration
-   - Key trends in cancellations & renewals
+   - Key trends in cancellations(Churn rate) & renewals
   
 
 ### Dataset Used
