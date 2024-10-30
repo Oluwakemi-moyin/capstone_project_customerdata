@@ -119,7 +119,8 @@ Well I approached it in 5 steps:
 ### Dashboard Overview
 ---
 
-![IMG-20241027-WA0030](https://github.com/user-attachments/assets/5f05736c-5bd3-4ab5-aa58-a096f7c3d02b)
+![IMG-20241027-WA0030](https://github.com/user-attachments/assets/b46e5ad4-49c7-4c7b-a6b2-dfdbf2f86d41)
+
 
 
 
@@ -133,23 +134,20 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 
 ![Screenshot 2024-10-29 105716](https://github.com/user-attachments/assets/de007ff7-605d-41d8-8f7b-d0f989f017f1)
 
-![Screenshot 2024-10-25 132804](https://github.com/user-attachments/assets/20f3003e-2058-4189-ae20-684e98d737b8)  ![Screenshot 2024-10-25 132736](https://github.com/user-attachments/assets/a2395603-1890-4061-8123-54ee3da86124)
+![Screenshot 2024-10-25 132804](https://github.com/user-attachments/assets/20f3003e-2058-4189-ae20-684e98d737b8)    ![Screenshot 2024-10-25 132736](https://github.com/user-attachments/assets/a2395603-1890-4061-8123-54ee3da86124)
 
-![Screenshot 2024-10-26 013524](https://github.com/user-attachments/assets/5ab8df58-310e-4b31-8141-187142c2a724)  ![Screenshot 2024-10-29 102609](https://github.com/user-attachments/assets/cffe7798-e73c-4ca3-ad5a-d25c7d463647)
+![Screenshot 2024-10-26 013524](https://github.com/user-attachments/assets/5ab8df58-310e-4b31-8141-187142c2a724)    ![Screenshot 2024-10-29 102609](https://github.com/user-attachments/assets/cffe7798-e73c-4ca3-ad5a-d25c7d463647)
 
 ![Screenshot 2024-10-29 112431](https://github.com/user-attachments/assets/b471436d-bead-4491-b191-fae3d54c03b4)
 
 
 ### Data Visualization
 ---
-![IMG-20241027-WA0017](https://github.com/user-attachments/assets/8db43a5c-42de-48bf-bc84-433a2b6f1111)  ![WhatsApp Image 2024-10-27 at 21 54 39_b8ef3dfc](https://github.com/user-attachments/assets/08a3e76f-f856-477b-8134-bea7096b593f)
+![IMG-20241027-WA0017](https://github.com/user-attachments/assets/8db43a5c-42de-48bf-bc84-433a2b6f1111)    ![WhatsApp Image 2024-10-27 at 21 54 39_b8ef3dfc](https://github.com/user-attachments/assets/08a3e76f-f856-477b-8134-bea7096b593f)
+
+![Screenshot 2024-10-25 133250](https://github.com/user-attachments/assets/57dc64fc-4879-491b-bdfa-9914fc859c42)   ![REGION SUBTYPE BY REVENUE](https://github.com/user-attachments/assets/56521819-3fca-4033-8f4a-804be595f71f)
 
 ![Screenshot 2024-10-26 013644](https://github.com/user-attachments/assets/6d03ea5e-fc41-4248-845a-96f04e353aac)
-
-![Screenshot 2024-10-25 133250](https://github.com/user-attachments/assets/57dc64fc-4879-491b-bdfa-9914fc859c42)
-
-
-
  
 ### Inferences
 ---
@@ -191,25 +189,56 @@ Also, the Company has to review its Internet services as the subscription number
 ---
 Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset.
 
+![Screenshot 2024-10-25 132708](https://github.com/user-attachments/assets/57bdca7a-1602-4863-9b52-632e7cf98acd)
 
+![Screenshot 2024-10-25 132948](https://github.com/user-attachments/assets/c277a145-fd6b-4fb8-a838-a7499bca0387)
 
+![Screenshot 2024-10-30 111548](https://github.com/user-attachments/assets/d5fb0f49-2d29-4f4e-a51d-dc0b5a7d4aec)
+
+![Screenshot 2024-10-29 102629](https://github.com/user-attachments/assets/1bb46883-0e64-4ab6-af51-7077139a4142)
+
+![Screenshot 2024-10-30 111001](https://github.com/user-attachments/assets/05c41c23-3b8b-482b-9f45-6d343782902a)
+
+![Screenshot 2024-10-29 112431](https://github.com/user-attachments/assets/49cdb3d9-59a0-4c7e-b454-93d1e279186c)
 
 
 ### Data Visualization
 ---
+![IMG-20241027-WA0029](https://github.com/user-attachments/assets/8c39da95-26d6-4158-b56d-118aa5be4aee)
 
+![IMG-20241027-WA0019](https://github.com/user-attachments/assets/fe72e262-a86b-4c31-8896-e85ccc764a1b)
+
+![REGION SUBTYPE BY REVENUE](https://github.com/user-attachments/assets/88eba379-c909-41f4-9c7f-0b26dcddf836)
+
+![IMG-20241027-WA0019](https://github.com/user-attachments/assets/503acd7b-3295-4dbb-b014-6ea45129ba30)
 
 
    
 ### Inferences
 ---
-1. Overall Sales Trends by Month
+1. Overall Revenue Trends by Year
+   - SOUTHERN REGION accounts for 25.08% of the overall revenue for the time periods(2022-2024) which was for the PREMIUM SUBSCRIPTION PLAN.
+   - The region with the lowest % revenue is the North Region with a 24.94% of the overall revenue for the time periods(2022-2024) which is for the BASIC SUBSCRIPTION PLAN.
+   - The East Region had the highest decline of 33.68% in Subscription revenue from 2022 to 2023
+   - South region brought in revenue of 22,528,898.00, which was the highest followed by East Region with revenue of 22,479,354.00 in 2022.
+   - The East Region had the highest decline of 33.68% in Subscription revenue from 2022 to 2023.
    
-2. Regional Performance
+3. Performance by Customers
+   - The customers are evenly distributed among the regions with 5 persons per region making it a total of 20 customers for the entire regions(distinct counts).
+   - Ella brought in the highest revenue of 7,517,651.00 in 2022 in the SOUTH Region
+   - SARA brought in the lowest revenue of 7,454,333.00 in 2022 in the WEST Region
+
+
+5. Performance by Subscription type
    
  
-4. Insights(Strategic Implications to the Business)
-  
+6. Insights(Strategic Implications to the Business)
+   - South Region is the top performing region for the time periods(2022-2024)
+   - East and North region subscribers like cheaper prices which is why they prefer Basic subscription
+   - The total revenue figures dropped from 89,902,969 in 2022 to  59,916,717(difference of ) in 2023 for all regions.
+   - Customers had more than one subscription per subscription term.
+   - In 2022 when the Subscription Company started providing services, Customers in the South region brought in revenue of 22,528,898.00, which was the highest followed by East Region with revenue of 22,479,354.00
+   - However in 2023, when a renewal was done after the initial one ended in the same year, there was a significant drop of 33.19% in the South Region while the East Region had the highest decline of 33.68%.
  
 ### Conclusion
 ---
