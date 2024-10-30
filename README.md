@@ -227,6 +227,10 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
    - The customers are evenly distributed among the regions with 5 persons per region making it a total of 20 customers for the entire regions(distinct counts).
    - Ella brought in the highest revenue of 7,517,651.00 in 2022 in the SOUTH Region
    - SARA brought in the lowest revenue of 7,454,333.00 in 2022 in the WEST Region
+   - SOPHIA brought in the highest revenue of 7,560,654.00 in 2023 in the SOUTH Region
+   - PAUL brought in the lowest revenue of 7,402,056.00  in 2023 in the EAST Region 
+
+
 
 
 5. Performance by Subscription type
@@ -237,8 +241,9 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
    - East and North region subscribers like cheaper prices which is why they prefer Basic subscription
    - The total revenue figures dropped from 89,902,969 in 2022 to  59,916,717(difference of ) in 2023 for all regions.
    - Customers had more than one subscription per subscription term.
-   - In 2022 when the Subscription Company started providing services, Customers in the South region brought in revenue of 22,528,898.00, which was the highest followed by East Region with revenue of 22,479,354.00
-   - However in 2023, when a renewal was done after the initial one ended in the same year, there was a significant drop of 33.19% in the South Region while the East Region had the highest decline of 33.68%.
+   - In 2022 when the Subscription Company started providing services, Customers in the South region brought in revenue of 22,528,898.00, which was the highest followed by East       Region with revenue of 22,479,354.00
+   - However in 2023, when a renewal was done after the initial one ended in the same year, there was a significant drop of 33.19% in the South Region while the East Region had       the highest decline of 33.68%.
+   - Customers that subscribed in 2022 did not renew in 2023. There are different sets of Customers for both Subscription terms(2022-2023 and 2023-2024 this may be due to poor        customer service or dissatisfaction of subscription service by customers.
  
 ### Conclusion
 ---
