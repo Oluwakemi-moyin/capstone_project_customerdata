@@ -148,7 +148,7 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 
 ![Screenshot 2024-10-25 133250](https://github.com/user-attachments/assets/57dc64fc-4879-491b-bdfa-9914fc859c42)
 
-![Screenshot 2024-10-29 113456](https://github.com/user-attachments/assets/3bce4e20-ef18-4637-938b-61a8bd61b984)
+
 
  
 ### Inferences
