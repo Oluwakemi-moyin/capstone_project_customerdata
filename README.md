@@ -494,18 +494,28 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 1. Overall Cancellations Trends by Month and Year
    - APRIL had the highest number of customers that cancelled. Total of 2customers. Total subscription canceled was 7,500.
    - There were no cancellations in MARCH, JULY, NOVEMBER and DECEMBER
-   - Subscription period 2022/2023
+   - Subscription period 2022/2023 had the most cancellations of 18,750 subscriptions which is 44.44% of the grand total of 33,750 Canceled Subscriptions.
+   - Presently there are 41,250 active subscriptions.
 2. Regional Performance
-   - 
+   - EAST REGION is the only region without cancellation
+   - The other regions had 11,250 subscription cancellations per region in the subscription periods
    
-4. Customer Performance
-   - 9 Customers canceled their subscription during the subscription periods
+3. Customer Performance
+   - A total of 9 Customers canceled their subscription during the subscription periods.
+   - 5 customers canceled in 2022.
+   - 4 customers canceled in 2023.
  
-5. Insights(Strategic Implications to the Business)
-   -   
+4. Insights(Strategic Implications to the Business)
+   -   9 customers canceled before their subscription elapsed. This might have been due to dissatisfaction from the internet subscription, poor network or poor customer care service.
+   -   11 customers still have active subscription
+   -   7 customers finished the tenure of the subscription period of 2022/2023 but are yet to renew subscriptions
+   -   4 customers finished the tenure of the subscription period of 2023/2024 but are yet to renew subscriptions
  
 ### Conclusion
 ---
+
+- Surveys should be carried out to know what customers feel about your brand, where improvements are necessary and why customers are cancelling subscriptions or being dormant with it by not cancelling and it renewing.
+- Customer care agents need to reach out to customers(new and old) to followup on subscription renewals and possible discounts.
 
 
 ### Tables
@@ -515,13 +525,13 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 Total Revenue per Year
 |YEAR| TOTAL REVENUE|
 |-----| -----|
-|2023|5,575,000|
-|2024|5,012,500|
+|2022-2023| 89,902,969|
+|2023-2024| 59,916,717|
 
 👩‍💻👩🏾‍💻 
 Average Revenue per Year
 |YEAR| AVERAGE REVENUE|
 |-----| -----|
-|2023|185.8333333|
-|2024|250.625|
+|2022-2023|1,997.84|
+|2023-2024|1,997.22|
 
