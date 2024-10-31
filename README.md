@@ -472,29 +472,29 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ### Exploratory Data Analysis
 ---
 Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset.
-![Screenshot 2024-10-25 132948](https://github.com/user-attachments/assets/f27d6ba7-a333-41bb-851c-afd479953529)
-
-![Screenshot 2024-10-25 133021](https://github.com/user-attachments/assets/2ec3c0e7-a7fb-4e49-a5e4-a44252d7ff89)
-
-![Screenshot 2024-10-31 120136](https://github.com/user-attachments/assets/44212c13-7287-4f33-aff5-de8c9681d88f)
+![Screenshot 2024-10-25 132948](https://github.com/user-attachments/assets/f27d6ba7-a333-41bb-851c-afd479953529) ![Screenshot 2024-10-25 133021](https://github.com/user-attachments/assets/2ec3c0e7-a7fb-4e49-a5e4-a44252d7ff89) ![Screenshot 2024-10-31 120136](https://github.com/user-attachments/assets/44212c13-7287-4f33-aff5-de8c9681d88f)
 
 ![Screenshot 2024-10-31 120826](https://github.com/user-attachments/assets/83114726-bd9d-4507-a2dc-3b4900d14bce)
 
+![cancellations by year](https://github.com/user-attachments/assets/24b720d1-84fe-4516-bf16-00c3d4d9d8db) ![count of cancellation](https://github.com/user-attachments/assets/18498193-e43f-45ca-a26b-aca570c349bd)
 
 
 ### Data Visualization
 ---
-![IMG-20241027-WA0016](https://github.com/user-attachments/assets/d31e2bbb-302c-4d0a-a149-94ad63b84a77)
-
-![Screenshot 2024-10-31 120538](https://github.com/user-attachments/assets/f442078f-57e5-4005-b217-698b550d4297)
+![IMG-20241027-WA0016](https://github.com/user-attachments/assets/d31e2bbb-302c-4d0a-a149-94ad63b84a77) ![Screenshot 2024-10-31 120538](https://github.com/user-attachments/assets/f442078f-57e5-4005-b217-698b550d4297)
+![cancellations by year0chart](https://github.com/user-attachments/assets/9c2b2ead-e4e9-4a90-a922-57a1cc9bc20f)
+![revenue by no of cancellations](https://github.com/user-attachments/assets/c495b679-3e03-4457-b8ed-42394d86341b)
+![customer  cancellations in 2022-chart](https://github.com/user-attachments/assets/d46ecc7f-740e-4627-9710-2c08708cb532)
+![customer  cancellations in 2023-chart](https://github.com/user-attachments/assets/4e38659e-c9aa-49ab-828f-186a728e42f9)
 
 
    
 ### Inferences
 ---
-1. Overall Cancellations Trends by Month
+1. Overall Cancellations Trends by Month and Year
    - APRIL had the highest number of customers that cancelled. Total of 2customers. Total subscription canceled was 7,500.
-   - 
+   - There were no cancellations in MARCH, JULY, NOVEMBER and DECEMBER
+   - Subscription period 2022/2023
 2. Regional Performance
    - 
    
