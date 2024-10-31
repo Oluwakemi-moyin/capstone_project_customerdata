@@ -137,11 +137,8 @@ Well I approached it in 5 steps:
 Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset.
 
 ![Screenshot 2024-10-29 105716](https://github.com/user-attachments/assets/de007ff7-605d-41d8-8f7b-d0f989f017f1)     ![Screenshot 2024-10-31 025616](https://github.com/user-attachments/assets/fd5e3586-11e5-4baa-a5ee-21a3588c2be0)
-
-
-![Screenshot 2024-10-25 132804](https://github.com/user-attachments/assets/20f3003e-2058-4189-ae20-684e98d737b8)     ![Screenshot 2024-10-25 132736](https://github.com/user-attachments/assets/a2395603-1890-4061-8123-54ee3da86124)       ![Screenshot 2024-10-26 013524](https://github.com/user-attachments/assets/5ab8df58-310e-4b31-8141-187142c2a724)   
-
-
+![Screenshot 2024-10-25 132736](https://github.com/user-attachments/assets/a2395603-1890-4061-8123-54ee3da86124)
+![Screenshot 2024-10-26 013524](https://github.com/user-attachments/assets/5ab8df58-310e-4b31-8141-187142c2a724)   
 
 
 
@@ -417,7 +414,7 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ---
 - For the best performing customers, the Company should give them rewards(cash or gift). This will further increase their loyalty to the brand, and in return, they very likely will renew their subscriptions and boost the organization's revenue.
 - Also, for least performing customers, the organisation should encourage them by giving discounts, and promos to boost their subscriptions and thereby, increasing the organisation's revenue.
-- Surveys can also be carried out to know what customers feel about your barand and where improvements are necessary.
+- Surveys can also be carried out to know what customers feel about your brand and where improvements are necessary.
 
 
 
@@ -431,6 +428,9 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset.
 
 ![Screenshot 2024-10-25 132746](https://github.com/user-attachments/assets/18086d14-c675-461d-9e97-31bc9950048a)
+![Screenshot 2024-10-31 123040](https://github.com/user-attachments/assets/ab02f1b2-e157-40d4-bc13-12a4bcb7c570)
+![Screenshot 2024-10-31 123027](https://github.com/user-attachments/assets/21959135-e33d-4cbb-a41d-3892bdfeba04)
+![Screenshot 2024-10-31 123021](https://github.com/user-attachments/assets/cc5b9f78-1d25-4cb0-bf27-c277c891d576)
 
 
 ### Data Visualization
@@ -438,6 +438,9 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 
 ![Screenshot 2024-10-25 133304](https://github.com/user-attachments/assets/588a583a-e879-41b6-aacc-b14521bd0bea)
 
+![Region by avg sub duration](https://github.com/user-attachments/assets/8a450849-95aa-4ed4-b305-4fecc4f5226e)
+
+![Year by avg subscrip duration](https://github.com/user-attachments/assets/6a57515b-7522-4d67-b162-16016f44d4d3)
 
    
 ### Inferences
