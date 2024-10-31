@@ -33,11 +33,11 @@ This project involves analyzing customer data for a subscription service to iden
 In this project, I was tasked with;
 1. Analyzing Customer data for a subscription service
 2. Exploring Customer data to uncover key insights such as:
-   - Track subscription Patterns,
+   - Customers Subscription Patterns,
    - Regional Performances
-   - Total Revenue by Region
-   - Average Revenue by Region, Subscription type
-   - Top 10 Customers by Revenue
+   - Total Revenue
+   - Average Revenue
+   - BestPerforming Customers
    - Average subscription duration
    - Key trends in cancellations(Churn rate) & renewals
   
@@ -135,22 +135,22 @@ Well I approached it in 5 steps:
 ---
 Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset.
 
-![Screenshot 2024-10-29 105716](https://github.com/user-attachments/assets/de007ff7-605d-41d8-8f7b-d0f989f017f1)
+![Screenshot 2024-10-29 105716](https://github.com/user-attachments/assets/de007ff7-605d-41d8-8f7b-d0f989f017f1)     ![Screenshot 2024-10-31 025616](https://github.com/user-attachments/assets/fd5e3586-11e5-4baa-a5ee-21a3588c2be0)
 
-![Screenshot 2024-10-25 132804](https://github.com/user-attachments/assets/20f3003e-2058-4189-ae20-684e98d737b8)    ![Screenshot 2024-10-25 132736](https://github.com/user-attachments/assets/a2395603-1890-4061-8123-54ee3da86124)
 
-![Screenshot 2024-10-26 013524](https://github.com/user-attachments/assets/5ab8df58-310e-4b31-8141-187142c2a724)    ![Screenshot 2024-10-29 102609](https://github.com/user-attachments/assets/cffe7798-e73c-4ca3-ad5a-d25c7d463647)
+![Screenshot 2024-10-25 132804](https://github.com/user-attachments/assets/20f3003e-2058-4189-ae20-684e98d737b8)     ![Screenshot 2024-10-25 132736](https://github.com/user-attachments/assets/a2395603-1890-4061-8123-54ee3da86124)       ![Screenshot 2024-10-26 013524](https://github.com/user-attachments/assets/5ab8df58-310e-4b31-8141-187142c2a724)   
 
-![Screenshot 2024-10-29 112431](https://github.com/user-attachments/assets/b471436d-bead-4491-b191-fae3d54c03b4)
+
+
 
 
 ### Data Visualization
 ---
-![IMG-20241027-WA0017](https://github.com/user-attachments/assets/8db43a5c-42de-48bf-bc84-433a2b6f1111)    ![WhatsApp Image 2024-10-27 at 21 54 39_b8ef3dfc](https://github.com/user-attachments/assets/08a3e76f-f856-477b-8134-bea7096b593f)
+![IMG-20241027-WA0017](https://github.com/user-attachments/assets/8db43a5c-42de-48bf-bc84-433a2b6f1111)    ![WhatsApp Image 2024-10-27 at 21 54 39_b8ef3dfc](https://github.com/user-attachments/assets/08a3e76f-f856-477b-8134-bea7096b593f)         
+![Screenshot 2024-10-25 133250](https://github.com/user-attachments/assets/57dc64fc-4879-491b-bdfa-9914fc859c42) ![Screenshot 2024-10-26 013644](https://github.com/user-attachments/assets/6d03ea5e-fc41-4248-845a-96f04e353aac)
+![REGION SUBTYPE BY REVENUE](https://github.com/user-attachments/assets/56521819-3fca-4033-8f4a-804be595f71f)
 
-![Screenshot 2024-10-25 133250](https://github.com/user-attachments/assets/57dc64fc-4879-491b-bdfa-9914fc859c42)   ![REGION SUBTYPE BY REVENUE](https://github.com/user-attachments/assets/56521819-3fca-4033-8f4a-804be595f71f)
 
-![Screenshot 2024-10-26 013644](https://github.com/user-attachments/assets/6d03ea5e-fc41-4248-845a-96f04e353aac)
  
 ### Inferences
 ---
@@ -192,23 +192,21 @@ Also, the Company has to review its Internet services as the subscription number
 ---
 Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset.
 
-![Screenshot 2024-10-25 132708](https://github.com/user-attachments/assets/57bdca7a-1602-4863-9b52-632e7cf98acd)   ![Screenshot 2024-10-25 132948](https://github.com/user-attachments/assets/c277a145-fd6b-4fb8-a838-a7499bca0387)
-
-![Screenshot 2024-10-30 111548](https://github.com/user-attachments/assets/d5fb0f49-2d29-4f4e-a51d-dc0b5a7d4aec)   ![Screenshot 2024-10-29 102629](https://github.com/user-attachments/assets/1bb46883-0e64-4ab6-af51-7077139a4142)
+![Screenshot 2024-10-25 132708](https://github.com/user-attachments/assets/57bdca7a-1602-4863-9b52-632e7cf98acd)      ![Screenshot 2024-10-25 132948](https://github.com/user-attachments/assets/c277a145-fd6b-4fb8-a838-a7499bca0387)        ![Screenshot 2024-10-29 102629](https://github.com/user-attachments/assets/1bb46883-0e64-4ab6-af51-7077139a4142)
 
 ![Screenshot 2024-10-30 111001](https://github.com/user-attachments/assets/05c41c23-3b8b-482b-9f45-6d343782902a)   ![Screenshot 2024-10-29 112431](https://github.com/user-attachments/assets/49cdb3d9-59a0-4c7e-b454-93d1e279186c)
 
 ![Screenshot 2024-10-30 122334](https://github.com/user-attachments/assets/163d7a8a-4523-4170-b40b-29ec03724b7c)   ![Screenshot 2024-10-30 122247](https://github.com/user-attachments/assets/db9bcc72-c4fa-4f13-bb51-f5865c8b4650)
-![Screenshot 2024-10-30 122334](https://github.com/user-attachments/assets/37eaa6cb-a853-4dec-9c9a-47cc66d77bfe)
+
 ### Data Visualization
 ---
-![IMG-20241027-WA0029](https://github.com/user-attachments/assets/8c39da95-26d6-4158-b56d-118aa5be4aee)
+![revenue by region](https://github.com/user-attachments/assets/c7c39f9e-88ca-4f89-ac92-3a1b2ab37813)
 
-![IMG-20241027-WA0019](https://github.com/user-attachments/assets/fe72e262-a86b-4c31-8896-e85ccc764a1b)
+![revenue by no of cancellations](https://github.com/user-attachments/assets/9b1b4e33-e59f-4819-b5d7-b8da42cccf05)
 
 ![REGION SUBTYPE BY REVENUE](https://github.com/user-attachments/assets/88eba379-c909-41f4-9c7f-0b26dcddf836)
 
-![IMG-20241027-WA0019](https://github.com/user-attachments/assets/503acd7b-3295-4dbb-b014-6ea45129ba30)
+
 
 
    
@@ -253,25 +251,23 @@ The Company needs to review its Internet services as the subscription numbers an
 ---
 Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset.
 
-![Screenshot 2024-10-25 132708](https://github.com/user-attachments/assets/3074f1c5-074e-440f-9b7b-b3aefd816797)
-![Screenshot 2024-10-25 132930](https://github.com/user-attachments/assets/ae347e2b-c411-445b-80bb-f16c68bff3c8)
-![Screenshot 2024-10-25 133124](https://github.com/user-attachments/assets/ca5fb143-3e92-480a-b165-0757c6113c08)
-![Screenshot 2024-10-25 132736](https://github.com/user-attachments/assets/971bdae9-4b02-4454-8b65-ea2a70b502ab)
-![Screenshot 2024-10-29 105716](https://github.com/user-attachments/assets/386f32d4-9836-478b-afe4-ba63eea83372)
-![Screenshot 2024-10-30 162902](https://github.com/user-attachments/assets/f863979e-38d4-40b7-a58c-f5c2dd2d6fe3)
 ![Screenshot 2024-10-30 164410](https://github.com/user-attachments/assets/f486ffe9-992a-4d19-961a-977514deb799)
-![Screenshot 2024-10-30 173045](https://github.com/user-attachments/assets/9225829e-1d5b-43bc-a586-3245235c1e65)
+![Screenshot 2024-10-25 132708](https://github.com/user-attachments/assets/3074f1c5-074e-440f-9b7b-b3aefd816797)
+![Screenshot 2024-10-25 132736](https://github.com/user-attachments/assets/971bdae9-4b02-4454-8b65-ea2a70b502ab)
+![Screenshot 2024-10-25 133124](https://github.com/user-attachments/assets/ca5fb143-3e92-480a-b165-0757c6113c08)
+
+![Screenshot 2024-10-29 105716](https://github.com/user-attachments/assets/386f32d4-9836-478b-afe4-ba63eea83372)
 
 
+ ![Screenshot 2024-10-30 162902](https://github.com/user-attachments/assets/f863979e-38d4-40b7-a58c-f5c2dd2d6fe3)       ![Screenshot 2024-10-30 173045](https://github.com/user-attachments/assets/9225829e-1d5b-43bc-a586-3245235c1e65)   
 
 
 ### Data Visualization
 ---
-![IMG-20241027-WA0029](https://github.com/user-attachments/assets/70695544-ff28-42bb-94e7-c8249c15d1a2)
-![Screenshot 2024-10-25 133224](https://github.com/user-attachments/assets/13108056-50c6-451d-9ec9-db44a1c53287)
-![Screenshot 2024-10-25 133240](https://github.com/user-attachments/assets/9551bebb-d24f-4c1c-92c1-c9f7135eb9ed)
-![Screenshot 2024-10-30 163013](https://github.com/user-attachments/assets/d284fbf9-3e00-4a52-b7de-be831ab6177d)
-![Screenshot 2024-10-30 164641](https://github.com/user-attachments/assets/d47161a6-5d1b-4f3c-981b-8707882a8f51)
+![revenue by subscription type](https://github.com/user-attachments/assets/3091731d-3b62-4463-bde5-8e4e672783c0)      ![revenue by region](https://github.com/user-attachments/assets/5c065d8f-b04c-4245-98f1-339e298601a3)
+
+
+![Screenshot 2024-10-30 164641](https://github.com/user-attachments/assets/d47161a6-5d1b-4f3c-981b-8707882a8f51)           ![Screenshot 2024-10-30 163013](https://github.com/user-attachments/assets/d284fbf9-3e00-4a52-b7de-be831ab6177d)
 
 
 
@@ -306,15 +302,16 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
    - BASIC SUBSCRIPTION has the most number of subscribers (distinct count of 10) as compared to other plans.
    
 7. Insights(Strategic Implications to the Business)
-   -  The Company has not been able to retain its customers. None of the past customers for subscription period 2022/2023 renewed their subscription.
-   - The Company's Subscription Revenue greatly declined by 20% in the year 2023/2024 subscription period. 
+   - The Company has not been able to retain its customers. None of the past customers for subscription period 2022/2023 renewed their subscription, although some did not cancel      their subscription.
+   - The Company's Subscription Revenue greatly declined by 20% in the year 2023/2024 subscription period, this might be due to both the number of subscribers which is 33.33%(8       subscribers) lower compared to the 2022/2023 subscription period(there were 12 subscribers). 
  
 ### Conclusion
 ---
-JUNE is the best sales month for the Subscription company followed by FEBRUARY probably due to Valentine's celebration.
-The Company can focus on subscription bonuses e.g referral bonuses, buy 2years get 1month free or reductions in prices for renewals to boost sales yet higher so as to retain its present customers and also bring back old customers.
-A survey can be carried out to get more understanding of what caused the decline and what made the first set of customers leave.
-                                                             
+
+A survey can be carried out to get more understanding of what caused the decline in Revenue in terms of the prices and what customers feel about using their services. However, these are my recommendations;
+- Emphasis should be placed on BASIC type and its prices can be adjusted a bit higher to cause Revenue to increase.
+- JUNE is the best sales month for the Subscription company followed by FEBRUARY probably due to Valentine's celebration.
+- The Company can focus on subscription bonuses e.g referral bonuses, buy 2years get 1month free, reductions in prices,etc for renewals to boost sales higher and thereafter,       company's revenue so as to retain its present customers, increase the numbers of subscribers and also bring back old customers i.e causing them to renew subscriptions.                                                             
                                                                |D|
 ## Average Revenue by Region, Subscription types
 ---
@@ -323,6 +320,9 @@ A survey can be carried out to get more understanding of what caused the decline
 ---
 Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset.
 
+![Screenshot 2024-10-31 042205](https://github.com/user-attachments/assets/534fc7d5-beee-4589-adf7-026fa7316703)    ![Screenshot 2024-10-31 042037](https://github.com/user-attachments/assets/363e6360-11ad-4215-adea-df564bc18b2c)
+
+![Screenshot 2024-10-31 042248](https://github.com/user-attachments/assets/2fd38a30-bd06-44a2-9206-6b55fae69636)
 
 
 
@@ -330,30 +330,47 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ### Data Visualization
 ---
 
-
+![AVG REV BY REGION BY YEAR](https://github.com/user-attachments/assets/bb7c1fc0-8c29-4bf1-b5a8-028b1f9d5561)  ![AVG REV BY YEAR](https://github.com/user-attachments/assets/4870f2d4-0d6e-4510-9f52-0d7a14b33f6f)
+![AVG BY SUB TYPE](https://github.com/user-attachments/assets/f7f67a25-14ba-4d7c-a6d6-713201ae329e)
 
    
 ### Inferences
 ---
-1. Overall Sales Trends by Month
+1. Overall Average Trends by Year
+   - In 2022/2023 Subscription period, each customer brought in an average of 1,997.84 to the business
+   - In 2023/2024 Subscription period, each customer brought in an average of 1,997.22 to the business
+   - The Average revenue declined by 0.031% in the 2023/2024 Subscription period
    
 2. Regional Performance
-   
+   - The SOUTH region brought in the highest overall average revenue of 2,004.31 per subscriber for both subscription periods.
+   - The NORTH region brought in the least average revenue of 1,993.01 per subscriber for both subscription periods.
+
  
+3. Performance by Subscription types
+   - PREMIUM subscription type had the highest average revenue of 2,004 per subscriber for both subscription periods.
+   - BASIC subscription type brought in the least which was 1,994  per subscriber for both subscription periods.
+
+   
 4. Insights(Strategic Implications to the Business)
+   - - BASIC subscription type brought in the least average revenue of 1,994 per subscriber for both subscription periods. The Company has not been able to retain its customers. None of the past customers for subscription period 2022/2023 renewed their subscription, although some did not cancel  their subscription.
+   - The Company's Subscription Revenue greatly declined by 20% in the year 2023/2024 subscription period, this might be due to both the number of subscribers which is 33.33%(8       subscribers) lower compared to the 2022/2023 subscription period(there were 12 subscribers). 
   
  
 ### Conclusion
 ---
-
+The Price of BASIC SUBSCRIPTION TYPE should be reviewed higher so as to boost the company's average revenue per subscriber .
+However, the Company needs to be very careful in taking this action as this might cause some subscibers to cancel or not renew their subscriptions.
+Followups and surverys should be done to understand why customers are not renewing subscriptions andwhy they are cancelling susbscriptions
 
                                                                |E|
-## Top 10 Customers by Revenue
+## Best Performing Customers by Revenue
 ---
 
 ### Exploratory Data Analysis
 ---
 Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset.
+
+![Screenshot 2024-10-31 052545](https://github.com/user-attachments/assets/8b876c99-7bb8-43c1-a059-59b47d7197fd)
 
 
 
