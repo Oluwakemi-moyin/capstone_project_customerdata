@@ -64,7 +64,7 @@ In this project, I was tasked with;
    - for Visualisation
 2. SQL Server [Download here](https://github.com/Oluwakemi-moyin/capstone_project_customerdata/blob/d6e362b91515ed24e449f15e0649d012329871ef/SQLQueryPROJECT-CUSTOMERDATA.sql )
    - for data querying
-3. Microsoft PowerBI [Download here](https://github.com/Oluwakemi-moyin/capstone_project_customerdata/blob/d6e362b91515ed24e449f15e0649d012329871ef/Customer%20data-Project.pbix )
+3. Microsoft PowerBI [Download here](https://github.com/Oluwakemi-moyin/capstone_project_customerdata/blob/b6235c0f0e8a65a893e53601effd016b99871ad7/Customer%20data-Project.pbix)
     - for Summarisation of the dataset and
     - for Visualisations
 4. Github- for profile building
@@ -123,7 +123,8 @@ Well I approached it in 5 steps:
 ### Dashboard Overview
 ---
 
-![IMG-20241027-WA0030](https://github.com/user-attachments/assets/b46e5ad4-49c7-4c7b-a6b2-dfdbf2f86d41)
+![Screenshot 2024-11-01 152642](https://github.com/user-attachments/assets/5a6b2bd4-645a-49b0-bc31-42985e4be2e2)
+
 
 
 
@@ -476,7 +477,7 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 
 ![Screenshot 2024-10-31 120826](https://github.com/user-attachments/assets/83114726-bd9d-4507-a2dc-3b4900d14bce)
 
-![cancellations by year](https://github.com/user-attachments/assets/24b720d1-84fe-4516-bf16-00c3d4d9d8db) ![count of cancellation](https://github.com/user-attachments/assets/18498193-e43f-45ca-a26b-aca570c349bd)
+![cancellations by year](https://github.com/user-attachments/assets/24b720d1-84fe-4516-bf16-00c3d4d9d8db)![count of cancellation](https://github.com/user-attachments/assets/18498193-e43f-45ca-a26b-aca570c349bd)
 
 
 ### Data Visualization
@@ -499,6 +500,9 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 2. Regional Performance
    - EAST REGION is the only region without cancellation
    - The other regions had 11,250 subscription cancellations per region in the subscription periods
+   - Cancellations count is likely to decrease by 0.6 on average when region is East compared to the other regions
+   - Cancellations count is likely to increase by 0.19 when Regions are West and South.
+   - Cancellations count is likely to increase by 0.22 when Region is North
    
 3. Customer Performance
    - A total of 9 Customers canceled their subscription during the subscription periods.
@@ -510,12 +514,14 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
    -   11 customers still have active subscription
    -   7 customers finished the tenure of the subscription period of 2022/2023 but are yet to renew subscriptions
    -   4 customers finished the tenure of the subscription period of 2023/2024 but are yet to renew subscriptions
+   -   The East Region is the best region for the Company's services with no cancellation of subscriptions. 
  
 ### Conclusion
 ---
 
-- Surveys should be carried out to know what customers feel about your brand, where improvements are necessary and why customers are cancelling subscriptions or being dormant with it by not cancelling and it renewing.
+- Surveys should be carried out to know what customers feel about your brand, where improvements are necessary and why customers are cancelling subscriptions or being dormant with it by not cancelling and not renewing.
 - Customer care agents need to reach out to customers(new and old) to followup on subscription renewals and possible discounts.
+- There is need to focus on encouraging current customers to renew their subscriptions and also bring in new customers in the East Region. This can be achieved by introducing discounts on subscriptions, lower prices for new     customers for first 1 subscription year, then normal price following that.
 
 
 ### Tables
