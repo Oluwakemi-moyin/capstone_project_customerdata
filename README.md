@@ -64,7 +64,7 @@ In this project, I was tasked with;
    - for Visualisation
 2. SQL Server [Download here](https://github.com/Oluwakemi-moyin/capstone_project_customerdata/blob/99fbf1e8986210a67e0e2c49aac31664deef0506/SQLQueryPROJECT-CUSTOMERDATA.sql )
    - for data querying
-3. Microsoft PowerBI [Download here](https://github.com/Oluwakemi-moyin/capstone_project_customerdata/blob/c68a2103464e3e4a35767a6044b4fbe5e733421d/Customer%20data-Project.pbix)
+3. Microsoft PowerBI [Download here](https://github.com/Oluwakemi-moyin/capstone_project_customerdata/blob/9f63fbc6ca333a67694094538799cd46d3014091/Customer%20data-Project.pbix)
     - for Summarisation of the dataset and
     - for Visualisations
 4. Github- for profile building
