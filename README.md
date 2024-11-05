@@ -62,7 +62,7 @@ In this project, I was tasked with;
    - for Data cleaning
    - for Summarisation of the data
    - for Visualisation
-2. SQL Server [Download here](https://github.com/Oluwakemi-moyin/capstone_project_customerdata/blob/d6e362b91515ed24e449f15e0649d012329871ef/SQLQueryPROJECT-CUSTOMERDATA.sql )
+2. SQL Server [Download here](https://github.com/Oluwakemi-moyin/capstone_project_customerdata/blob/99fbf1e8986210a67e0e2c49aac31664deef0506/SQLQueryPROJECT-CUSTOMERDATA.sql )
    - for data querying
 3. Microsoft PowerBI [Download here](https://github.com/Oluwakemi-moyin/capstone_project_customerdata/blob/b6235c0f0e8a65a893e53601effd016b99871ad7/Customer%20data-Project.pbix)
     - for Summarisation of the dataset and
@@ -94,24 +94,24 @@ Well I approached it in 5 steps:
     - SQL Server - analysis was done with queries like;
          - Total number of customers from each region
             ```
-           SELECT  APPROX_COUNT_DISTINCT(customerid) AS No_of_Customers , Region from Customer_data
+           SELECT  APPROX_COUNT_DISTINCT(customerid) AS No_of_Customers , Region from [dbo].[CUSTOMER DATA_CAPSTONE_PROJECT]
             group by Region
             order by APPROX_COUNT_DISTINCT(customerid) desc
             ```
          -  Most popular subscription type by the number of customers
             ```
-            select top 1 SubscriptionType, APPROX_COUNT_DISTINCT(CUSTOMERID) AS No_of_Customers from CUSTOMER_DATA
+            select top 1 SubscriptionType, APPROX_COUNT_DISTINCT(CUSTOMERID) AS No_of_Customers from [dbo].[CUSTOMER DATA_CAPSTONE_PROJECT]
             GROUP BY SubscriptionType
             ORDER BY No_of_Customers DESC
             ```
          -  Customers who canceled within 6months
             ```
-            select customerID, CUSTOMERNAME, Subscription_duration from CUSTOMER_DATA
+            select customerID, CUSTOMERNAME, Subscription_duration from [dbo].[CUSTOMER DATA_CAPSTONE_PROJECT]
             where canceled ='TRUE' and Subscription_duration>= DATEADD(Month,-6,GETDATE())
             ```
          -  Average subscription duration for all customers
             ```
-            select AVG(subscription_duration) as AvgSubscriptionDuration from CUSTOMER_DATA
+            select AVG(subscription_duration) as AvgSubscriptionDuration from [dbo].[CUSTOMER DATA_CAPSTONE_PROJECT]
              ```
             
      - Microsoft Power BI
