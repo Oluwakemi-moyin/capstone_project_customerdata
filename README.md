@@ -58,7 +58,7 @@ In this project, I was tasked with;
 
 ### Tools Used
 ---
-1. Microsoft Excel [Download here][LITA Capstone Dataset.xlsx](https://github.com/user-attachments/files/17551135/LITA.Capstone.Dataset.xlsx)
+1. Microsoft Excel [Download here]([CUSTOMER DATA-PROJECT - new.xlsx](https://github.com/user-attachments/files/17632571/CUSTOMER.DATA-PROJECT.-.new.xlsx))
    - for Data cleaning
    - for Summarisation of the data
    - for Visualisation
