@@ -235,7 +235,7 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
    - Customers had multiple subscription per subscription period.
    - In 2022 when the Subscription Company started providing services, Customers in the EAST region brought in revenue of   10,242,555.00, which was the highest followed by SOUTH Region with revenue of 10,126,800.00.
    - However in 2023, there was a significant drop in subscription revenue by 34.4% in the EAST Region while the SOUTH Region had the highest decline in subscription revenue by 33.13%.
-   - The set of Customers that subscribed in 2022 did not renew in 2023. There are different sets of Customers for both Subscription terms(2022-2023 and 2023-2024 this may be due to poor customer service or dissatisfaction        of subscription service by customers.
+   - The set of Customers that subscribed in 2022 did not renew in 2023. There are different sets of Customers for both Subscription terms(2022-2023 and 2023-2024 this may be due to poor customer service or dissatisfaction of subscription service by customers.
  
 ### Conclusion
 ---
@@ -290,27 +290,26 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
    - Customers had multiple subscription times during each time period(2022-2023) and (2023-2024). Each Customer subscribed on an average of 1,689.35 times.
 
 4. Performance by Subscription type
-   - The BASIC subscription type is the most popular subscription type as there are two regions(EAST and NORTH) purchasing that type for both subscription periods(2022-2023 and       2023-2024).
-   - BASIC SUBSCRIPTION has the highest Total revenue of 74,756,784 followed by Premium Subscription with a total revenue of 37,580,782 for the time periods(2022-2024)
-   - BASIC SUBSCRIPTION which had the highest Total revenue of 44,913,187 as at year 2022 declined further to 29,843,597 by year 2023
-   - BASIC SUBSCRIPTION has the highest total number of subscription duration (13,698,750) in days for the time periods (2022-2024).
-   - Standard Subscription brought in the lowest total revenue of 37,482,120 for the time periods(2022-2024).
+   - The BASIC subscription type is the most popular subscription type as there are two regions(EAST and NORTH) purchasing that type for both subscription periods(2022-2023           and 2023-2024).
+   - BASIC SUBSCRIPTION has the highest Total revenue of  33,776,735.00 followed by Premium Subscription with a total revenue of  16,899,064.00 for the time periods(2022-2024)
+   - BASIC SUBSCRIPTION which had the highest Total revenue of  20,332,506.00 as at year 2022 declined to 13,444,229.00 by the  year 2023
+   - BASIC SUBSCRIPTION has the highest total number of subscription duration 6,181,221 days for the time periods (2022-2024).
+   - Standard Subscription brought in the lowest total revenue of 16,864,376.00 for the time periods(2022-2024).
    - BASIC SUBSCRIPTION has the most number of subscribers (distinct count of 10) as compared to other plans.
    
-7. Insights(Strategic Implications to the Business)
+5. Insights(Strategic Implications to the Business)
    - The Company has not been able to retain its customers. None of the past customers for subscription period 2022/2023 renewed their subscription, although some did not cancel      their subscription.
-   - The Company's Subscription Revenue greatly declined by 20% in the year 2023/2024 subscription period, this might be due to both the number of subscribers which is 33.33%(8       subscribers) lower compared to the 2022/2023 subscription period(there were 12 subscribers). 
- 
+   - The Company's Subscription Revenue greatly declined by 20.04% in the year 2023/2024 subscription period, this might be due to both the number of subscribers which is 33.33%      (8 subscribers) lower compared to the 2022/2023 subscription period(there were 12 subscribers).
+
 ### Conclusion
 ---
 
 A survey can be carried out to get more understanding of what caused the decline in Revenue in terms of the prices and what customers feel about using their services.    However, these are my recommendations;
 - Emphasis should be placed on BASIC subscription type and its prices can be adjusted a bit higher to cause Revenue to rise.
-- JUNE is the best sales month for the Subscription company followed by FEBRUARY which could probably be due to Valentine's celebration.
 - The Company can focus on giving subscription bonuses e.g referral bonuses, buy 2years get 1month free, reductions in prices,etc for renewals to boost sales higher and thereafter, also increase the company's revenue.  This will help to retain its present customers, increase the numbers of subscribers and also bring back old customers i.e causing them to renew subscriptions.
 
 
-                                                               |D|
+                                                                    |D|
 
 ## Average Revenue by Region, Subscription types
 ---
@@ -319,7 +318,9 @@ A survey can be carried out to get more understanding of what caused the decline
 ---
 Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset.
 
-![Screenshot 2024-10-31 042205](https://github.com/user-attachments/assets/534fc7d5-beee-4589-adf7-026fa7316703)    ![Screenshot 2024-10-31 042037](https://github.com/user-attachments/assets/363e6360-11ad-4215-adea-df564bc18b2c)     ![Screenshot 2024-10-31 042248](https://github.com/user-attachments/assets/2fd38a30-bd06-44a2-9206-6b55fae69636)
+![Screenshot 2024-11-05 122925](https://github.com/user-attachments/assets/f560460b-91cc-4be5-a54a-746f9bbedbe5)
+![Screenshot 2024-11-05 122715](https://github.com/user-attachments/assets/e57459ca-a8b8-4e94-a76c-1ce229862153)
+
 
 
 
@@ -333,29 +334,30 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ### Inferences
 ---
 1. Overall Average Trends by Year
-   - In 2022/2023 Subscription period, each customer brought in an average of 1,997.84 to the business
-   - In 2023/2024 Subscription period, each customer brought in an average of 1,997.22 to the business
-   - The Average revenue declined by 0.031% in the 2023/2024 Subscription period.
-   - SOPHIA is the best performing customer with an average revenue of 2,016. In contrast, PAUL brought in an average of 1,974.
+   - In 2022/2023 Subscription period, each customer brought in an average of  1,999.43 to the business
+   - In 2023/2024 Subscription period, each customer brought in an average of  1,998.35 to the business
+   - The Average revenue declined by 0.05% in the 2023/2024 Subscription period.
+   - SOPHIA is the best performing customer with an average revenue of  2,010.00. In contrast, CHRIS brought in an average of 1,980.63.
    
 2. Regional Performance
-   - The SOUTH region brought in the highest overall average revenue of 2,004.31 per subscriber for both subscription periods.
-   - The NORTH region brought in the least average revenue of 1,993.01 per subscriber for both subscription periods.
+   - The WEST region brought in the highest overall average revenue of  2,002.90 per subscriber for both subscription periods.
+   - The NORTH region brought in the least average revenue of  1,994.30 per subscriber for both subscription periods.
 
  
 3. Performance by Subscription types
-   - PREMIUM subscription type had the highest average revenue of 2,004 per subscriber for both subscription periods.
-   - BASIC subscription type brought in the least which was 1,994  per subscriber for both subscription periods.
+   - STANDARD subscription type had the highest average revenue of 2,002.90 per subscriber for both subscription periods.
+   - BASIC subscription type brought in the least which was  1,996.14 per subscriber for both subscription periods.
 
    
 4. Insights(Strategic Implications to the Business)
-   - BASIC subscription type brought in the least average revenue of 1,994 per subscriber for both subscription periods. The Company has not been able to retain its customers.        None of the past customers for subscription period 2022/2023 renewed their subscription, although some did not cancel  their subscription.
+   - BASIC subscription type brought in the least average revenue for both subscription periods.
+   - The Company has not been able to retain its customers. None of the past customers for subscription period 2022/2023 renewed their subscription, although some did not cancel  their subscription.
    - The Company's Subscription Revenue greatly declined by 20% in the year 2023/2024 subscription period, this might be due to both the number of subscribers which is 33.33%(8       subscribers) lower compared to the 2022/2023 subscription period(there were 12 subscribers). 
   
  
 ### Conclusion
 ---
-- The Price of BASIC SUBSCRIPTION TYPE should be reviewed higher so as to boost the company's average revenue per subscriber .
+- The Price of BASIC SUBSCRIPTION TYPE should be reviewed higher as it has a high subscriber list, a price uncrease will boost the company's average revenue per subscriber .
 However, the Company needs to be very careful in taking this action as this might cause some subscibers to cancel or not renew their subscriptions.
 - Follow-ups and surveys should be done to understand why customers are not renewing subscriptions after a subscription period and why they are cancelling susbscriptions.
 
@@ -368,7 +370,10 @@ However, the Company needs to be very careful in taking this action as this migh
 ---
 Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset.
 
-![Screenshot 2024-10-31 052545](https://github.com/user-attachments/assets/8b876c99-7bb8-43c1-a059-59b47d7197fd)   ![Screenshot 2024-10-31 093319](https://github.com/user-attachments/assets/08b4fa5e-5f34-4771-a6f5-f0c3e0e2d49d) ![Screenshot 2024-10-31 094259](https://github.com/user-attachments/assets/4590a7b6-2a46-4119-848f-4012583a52a8)
+![Screenshot 2024-11-05 122715](https://github.com/user-attachments/assets/bbb61719-726e-49c7-a8ca-4998334eeb79)
+
+![Screenshot 2024-11-05 103012](https://github.com/user-attachments/assets/f0b3d781-8ed0-4af7-809a-f8d4f4011b64)
+
 
 
 ### Data Visualization
@@ -386,21 +391,20 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ### Inferences
 ---
 1. Overall Revenue trends by Year
-   - The customer with the overall highest revenue is SOPHIA who brought in 7,560,654.00 followed by Jane and Ella
-   - Ella brought in the highest revenue of 7,517,651.00 in 2022/2023 Subscription period
-   - SARA brought in the lowest revenue of 7,454,333.00 in 2022/2023 Subscription period 
-   - SOPHIA brought in the highest revenue of 7,560,654.00 in 2023/2024 Subscription period
-   - PAUL brought in the lowest revenue of 7,402,056.00  in 2023/2024 Subscription period
-   - Customers had multiple subscriptions during the Subscription periods (2022-2023) and (2023-2024). Each Customer subscribed differently 3,750 times in each periods.
+   - LIAM brought in the highest revenue of  3,437,444.00 in 2022/2023 SUBSCRIPTION PERIOD followed by MIKE & SOPHIA
+   - MARIA brought in the lowest revenue of  3,326,162.00 in 2022/2023 SUBSCRIPTION PERIOD
+   - SOPHIA brought in the highest revenue of  3,414,995.00 in 2023/2024 SUBSCRIPTION PERIOD 
+   - CHRIS brought in the lowest revenue of  3,351,225.00 in 2023/2024 SUBSCRIPTION PERIOD  
+   - Customers had multiple subscription times during each time period(2022-2023) and (2023-2024). Each Customer subscribed on an average of 1,689.35 times.
    
 2. Regional Performance
-   - The number of customers are evenly distributed among the regions(5 customers each)
-   - The region with the top performing customers for both Subscription periods is the SOUTH REGION  followed by the EAST REGION
+   - The number of customers are evenly distributed among the regions(5 customers each).
+   - The region with the top performing customers for both Subscription periods is the EAST REGION.
      
 3. Insights(Strategic Implications to the Business)
-   - SOPHIA is a very profitable customer who has brought in the highest revenue for both periods.
-   - The SOUTH REGION is the best region so far in terms of revenue distribution.
-   - PAUL is the least performing customer.
+   - LIAM is a very profitable customer who has brought in the highest revenue for both periods.
+   - The EAST REGION is the best region so far in terms of revenue distribution.
+   - MARIA is the least performing customer.
    - The NORTH REGION is the least performing region in terms of revenue distribution.
  
 ### Conclusion
@@ -412,18 +416,19 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 
 
 
-                                                               |F|
+                                                                   |F|
 ## Average Subscription Duration
 ---
 
 ### Exploratory Data Analysis
 ---
 Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset.
+![Screenshot 2024-11-05 102937](https://github.com/user-attachments/assets/fc48196d-3485-4049-9037-68109083a7c2)
+![Screenshot 2024-11-05 102846](https://github.com/user-attachments/assets/37e2062a-6215-4513-889a-8368dd8054ea)
+![Screenshot 2024-11-05 103139](https://github.com/user-attachments/assets/54ed6f5c-f2ba-4a99-bf34-01ec2d60a268)
+![Screenshot 2024-11-05 130348](https://github.com/user-attachments/assets/3f8368c7-4f94-4b06-aafd-286b45aeb8e0)
 
-![Screenshot 2024-10-25 132746](https://github.com/user-attachments/assets/18086d14-c675-461d-9e97-31bc9950048a)
-![Screenshot 2024-10-31 123040](https://github.com/user-attachments/assets/ab02f1b2-e157-40d4-bc13-12a4bcb7c570)
-![Screenshot 2024-10-31 123027](https://github.com/user-attachments/assets/21959135-e33d-4cbb-a41d-3892bdfeba04)
-![Screenshot 2024-10-31 123021](https://github.com/user-attachments/assets/cc5b9f78-1d25-4cb0-bf27-c277c891d576)
+
 
 
 ### Data Visualization
@@ -440,7 +445,7 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ---
 1. Overall Subscription Trends by Year
    - The average number of days of subscription for each customer in 2022/2023 subscription period is 365.00.
-   - In 2023/2024 subscription period for each customer, the average number of subscription days is 365.88.
+   - In 2023/2024 subscription period for each customer, the average number of subscription days is 365.87.
    - The average subscription duration each customer subscribed for is 365.35 for both subscription periods.
    
 2. Regional Performance
@@ -452,24 +457,24 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
    - The NORTH is underperforming as it has the least subscription duration.
 ### Conclusion
 ---
-- The organisation should should encourage the customers in the NORTH REGION by giving discounts, and promos to boost their subscriptions, and thereby, increasing the organisation's revenue.
+- The organisation should encourage the customers in the NORTH REGION by giving discounts, and promos to boost their subscriptions, and thereby, increasing the organisation's revenue.
 - The Company can focus on giving subscription bonuses e.g referral bonuses, buy 2years get 1month free, reductions in prices,etc for renewals to boost sales higher and thereafter, also increase the company's revenue.  This will help to retain its present customers, increase the numbers of subscribers and also bring back old customers i.e causing them to renew subscriptions.
+- The company should create a budget to accommodate all these
 
 
 
 
-                                                               |G|
+                                                                  |G|
 ## Key trends in Cancellations and renewals
 ---
 
 ### Exploratory Data Analysis
 ---
 Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset.
-![Screenshot 2024-10-25 132948](https://github.com/user-attachments/assets/f27d6ba7-a333-41bb-851c-afd479953529) ![Screenshot 2024-10-25 133021](https://github.com/user-attachments/assets/2ec3c0e7-a7fb-4e49-a5e4-a44252d7ff89) ![Screenshot 2024-10-31 120136](https://github.com/user-attachments/assets/44212c13-7287-4f33-aff5-de8c9681d88f)
-
-![Screenshot 2024-10-31 120826](https://github.com/user-attachments/assets/83114726-bd9d-4507-a2dc-3b4900d14bce)
-
-![cancellations by year](https://github.com/user-attachments/assets/24b720d1-84fe-4516-bf16-00c3d4d9d8db)![count of cancellation](https://github.com/user-attachments/assets/18498193-e43f-45ca-a26b-aca570c349bd)
+![Screenshot 2024-11-05 103123](https://github.com/user-attachments/assets/a321a93e-41a1-4190-a07b-9dc9ee8fd884)
+![Screenshot 2024-11-05 103110](https://github.com/user-attachments/assets/12ded137-ee42-421e-8707-85f9e51bd09b)
+![Screenshot 2024-11-05 103055](https://github.com/user-attachments/assets/ac2a5101-1079-43b8-9265-fa94c5b523f2)
+![Screenshot 2024-11-05 103657](https://github.com/user-attachments/assets/a901c761-abf6-444e-95f7-88cb1c66de7c)
 
 
 ### Data Visualization
@@ -485,13 +490,13 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ### Inferences
 ---
 1. Overall Cancellations Trends by Month and Year
-   - APRIL had the highest number of customers that cancelled. Total of 2customers. Total subscription canceled was 7,500.
+   - APRIL had the highest number of customers that cancelled. Total of 2customers. Total subscription canceled was  3,349.00.
    - There were no cancellations in MARCH, JULY, NOVEMBER and DECEMBER
-   - Subscription period 2022/2023 had the most cancellations of 18,750 subscriptions which is 44.44% of the grand total of 33,750 Canceled Subscriptions.
-   - Presently there are 41,250 active subscriptions.
+   - Subscription period 2022/2023 had the most cancellations of  8,411 subscriptions which is 44.57% of the grand total of  15,175 Canceled Subscriptions.
+   - Presently there are  18,612 active subscriptions.
 2. Regional Performance
    - EAST REGION is the only region without cancellation
-   - The other regions had 11,250 subscription cancellations per region in the subscription periods
+   - NORTH REGION has the highest number of cancellations 5,067
    - Cancellations count is likely to decrease by 0.6 on average when region is East compared to the other regions
    - Cancellations count is likely to increase by 0.19 when Regions are West and South.
    - Cancellations count is likely to increase by 0.22 when Region is North
@@ -502,7 +507,7 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
    - 4 customers canceled in 2023.
  
 4. Insights(Strategic Implications to the Business)
-   -   9 customers canceled before their subscription elapsed. This might have been due to dissatisfaction from the internet subscription, poor network or poor customer care service.
+   -   9 customers canceled before their subscription elapsed. This might have been due to dissatisfaction from the internet subscription, poor network or poor customer care            service.
    -   11 customers still have active subscription
    -   7 customers finished the tenure of the subscription period of 2022/2023 but are yet to renew subscriptions
    -   4 customers finished the tenure of the subscription period of 2023/2024 but are yet to renew subscriptions
@@ -511,9 +516,8 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ### Conclusion
 ---
 
-- Surveys should be carried out to know what customers feel about your brand, where improvements are necessary and why customers are cancelling subscriptions or being dormant with it by not cancelling and not renewing.
-- Customer care agents need to reach out to customers(new and old) to followup on subscription renewals and possible discounts.
-- There is need to focus on encouraging current customers to renew their subscriptions and also bring in new customers in the East Region. This can be achieved by introducing discounts on subscriptions, lower prices for new     customers for first 1 subscription year, then normal price following that.
+- Customer care agents need to reach out to customers(new and old) to followup on subscription renewals and propose possible discounts.
+- There is need to focus on encouraging current customers to renew their subscriptions and also bring in new customers in the East Region. This can be achieved by introducing things like; discounts on subscriptions, lower prices for new customers for first 1 subscription year, then normal price following that.
 
 
 ### Tables
