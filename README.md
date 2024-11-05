@@ -122,6 +122,7 @@ Well I approached it in 5 steps:
 
 ### Dashboard Overview
 ---
+![Screenshot 2024-11-05 173147](https://github.com/user-attachments/assets/9de4ac71-49a8-405c-8b69-0dc4f0cf9672)
 
 
 
