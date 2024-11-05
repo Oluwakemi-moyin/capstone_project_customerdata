@@ -64,7 +64,7 @@ In this project, I was tasked with;
    - for Visualisation
 2. SQL Server [Download here](https://github.com/Oluwakemi-moyin/capstone_project_customerdata/blob/99fbf1e8986210a67e0e2c49aac31664deef0506/SQLQueryPROJECT-CUSTOMERDATA.sql )
    - for data querying
-3. Microsoft PowerBI [Download here](https://github.com/Oluwakemi-moyin/capstone_project_customerdata/blob/b6235c0f0e8a65a893e53601effd016b99871ad7/Customer%20data-Project.pbix)
+3. Microsoft PowerBI [Download here](https://github.com/Oluwakemi-moyin/capstone_project_customerdata/blob/c68a2103464e3e4a35767a6044b4fbe5e733421d/Customer%20data-Project.pbix)
     - for Summarisation of the dataset and
     - for Visualisations
 4. Github- for profile building
@@ -123,7 +123,7 @@ Well I approached it in 5 steps:
 ### Dashboard Overview
 ---
 
-![Screenshot 2024-11-01 152642](https://github.com/user-attachments/assets/5a6b2bd4-645a-49b0-bc31-42985e4be2e2)
+
 
 
 
@@ -146,9 +146,6 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 
 ### Data Visualization
 ---
-![IMG-20241027-WA0017](https://github.com/user-attachments/assets/8db43a5c-42de-48bf-bc84-433a2b6f1111)    ![WhatsApp Image 2024-10-27 at 21 54 39_b8ef3dfc](https://github.com/user-attachments/assets/08a3e76f-f856-477b-8134-bea7096b593f)         
-![Screenshot 2024-10-25 133250](https://github.com/user-attachments/assets/57dc64fc-4879-491b-bdfa-9914fc859c42) ![Screenshot 2024-10-26 013644](https://github.com/user-attachments/assets/6d03ea5e-fc41-4248-845a-96f04e353aac)
-![REGION SUBTYPE BY REVENUE](https://github.com/user-attachments/assets/56521819-3fca-4033-8f4a-804be595f71f)
 
 
  
@@ -201,11 +198,7 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 
 ### Data Visualization
 ---
-![revenue by region](https://github.com/user-attachments/assets/c7c39f9e-88ca-4f89-ac92-3a1b2ab37813)
 
-![revenue by no of cancellations](https://github.com/user-attachments/assets/9b1b4e33-e59f-4819-b5d7-b8da42cccf05)
-
-![REGION SUBTYPE BY REVENUE](https://github.com/user-attachments/assets/88eba379-c909-41f4-9c7f-0b26dcddf836)
 
 
 
@@ -260,10 +253,6 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 
 ### Data Visualization
 ---
-![revenue by subscription type](https://github.com/user-attachments/assets/3091731d-3b62-4463-bde5-8e4e672783c0)      ![revenue by region](https://github.com/user-attachments/assets/5c065d8f-b04c-4245-98f1-339e298601a3)
-
-
-![Screenshot 2024-10-30 164641](https://github.com/user-attachments/assets/d47161a6-5d1b-4f3c-981b-8707882a8f51)           ![Screenshot 2024-10-30 163013](https://github.com/user-attachments/assets/d284fbf9-3e00-4a52-b7de-be831ab6177d)
 
 
 
@@ -327,8 +316,6 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ### Data Visualization
 ---
 
-![AVG REV BY REGION BY YEAR](https://github.com/user-attachments/assets/bb7c1fc0-8c29-4bf1-b5a8-028b1f9d5561)  ![AVG REV BY YEAR](https://github.com/user-attachments/assets/4870f2d4-0d6e-4510-9f52-0d7a14b33f6f)
-![AVG BY SUB TYPE](https://github.com/user-attachments/assets/f7f67a25-14ba-4d7c-a6d6-713201ae329e)
 
    
 ### Inferences
@@ -379,12 +366,6 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ### Data Visualization
 ---
 
-![best performing customers-2022 and 2023](https://github.com/user-attachments/assets/55a0f67e-7340-42c0-bef8-de686e8b5fe6)  
-
-![best performing customers-2022](https://github.com/user-attachments/assets/9deba94d-dd39-4069-a28e-4cb9fbd67810)
-
-![best performing customers-2023](https://github.com/user-attachments/assets/ef108e8d-fd63-4013-bf47-d8d1bc7c8b84) 
-
 
 
    
@@ -434,11 +415,7 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ### Data Visualization
 ---
 
-![Screenshot 2024-10-25 133304](https://github.com/user-attachments/assets/588a583a-e879-41b6-aacc-b14521bd0bea)
 
-![Region by avg sub duration](https://github.com/user-attachments/assets/8a450849-95aa-4ed4-b305-4fecc4f5226e)
-
-![Year by avg subscrip duration](https://github.com/user-attachments/assets/6a57515b-7522-4d67-b162-16016f44d4d3)
 
    
 ### Inferences
@@ -479,11 +456,6 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 
 ### Data Visualization
 ---
-![IMG-20241027-WA0016](https://github.com/user-attachments/assets/d31e2bbb-302c-4d0a-a149-94ad63b84a77) ![Screenshot 2024-10-31 120538](https://github.com/user-attachments/assets/f442078f-57e5-4005-b217-698b550d4297)
-![cancellations by year0chart](https://github.com/user-attachments/assets/9c2b2ead-e4e9-4a90-a922-57a1cc9bc20f)
-![revenue by no of cancellations](https://github.com/user-attachments/assets/c495b679-3e03-4457-b8ed-42394d86341b)
-![customer  cancellations in 2022-chart](https://github.com/user-attachments/assets/d46ecc7f-740e-4627-9710-2c08708cb532)
-![customer  cancellations in 2023-chart](https://github.com/user-attachments/assets/4e38659e-c9aa-49ab-828f-186a728e42f9)
 
 
    
