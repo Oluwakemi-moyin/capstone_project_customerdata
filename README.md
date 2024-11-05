@@ -147,6 +147,10 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 
 ### Data Visualization
 ---
+![Screenshot 2024-11-05 163233](https://github.com/user-attachments/assets/c7fea683-db83-419e-ae88-a50c6dbd1658)
+![Screenshot 2024-11-05 163309](https://github.com/user-attachments/assets/c69faf90-8bf4-4176-b98b-6eeb5be519e9)
+![Screenshot 2024-11-05 170111](https://github.com/user-attachments/assets/dfbf1341-fe6e-4468-a660-4253918b2cf2)
+![Screenshot 2024-11-05 170308](https://github.com/user-attachments/assets/60ba1478-c88f-4c10-b401-a42cb32a057c)
 
 
  
@@ -199,8 +203,10 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 
 ### Data Visualization
 ---
-
-
+![Screenshot 2024-11-05 170308](https://github.com/user-attachments/assets/0d171481-f005-4124-99e7-3a16abd82f9e)
+![Screenshot 2024-11-05 163417](https://github.com/user-attachments/assets/695a6901-2bdd-4d70-a3cb-86084bbc2763)
+![Screenshot 2024-11-05 163107](https://github.com/user-attachments/assets/981d89d9-c5e7-475e-9a41-932ba290a4dc)
+![Screenshot 2024-11-05 163028](https://github.com/user-attachments/assets/8813ffee-ca7a-42c8-bb06-71ef8812db84)
 
 
    
@@ -254,6 +260,11 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 
 ### Data Visualization
 ---
+![Screenshot 2024-11-05 170412](https://github.com/user-attachments/assets/8989b9d5-c085-43da-ae42-1dbbba2605ef)
+![Screenshot 2024-11-05 163309](https://github.com/user-attachments/assets/8e168e21-3887-4c5a-9886-22736c48270d)
+![Screenshot 2024-11-05 170412](https://github.com/user-attachments/assets/a2a3daab-ffdb-4f4f-ab10-ebb3fd60e9af)
+![Screenshot 2024-11-05 170537](https://github.com/user-attachments/assets/efc10ffd-fe88-4a9c-b2b1-819ee606c0ba)
+![Screenshot 2024-11-05 163335](https://github.com/user-attachments/assets/0362b69a-2e47-4511-bef8-849af5d7e7a0)
 
 
 
@@ -314,9 +325,13 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 
 
 
+
 ### Data Visualization
 ---
 
+![Screenshot 2024-11-05 171005](https://github.com/user-attachments/assets/8d5590b9-0b1a-4c17-9f4c-d1f6ec44a4d9)
+![Screenshot 2024-11-05 170759](https://github.com/user-attachments/assets/a2c1d5d2-bf86-4510-a1e3-f08e1fcd9ba6)
+![Screenshot 2024-11-05 170900](https://github.com/user-attachments/assets/878efc56-c51a-466d-a437-7f6f7ad07055)
 
    
 ### Inferences
@@ -367,6 +382,7 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ### Data Visualization
 ---
 
+![Screenshot 2024-11-05 163008](https://github.com/user-attachments/assets/7973c4de-3d8b-4bdf-978c-86aadad25c80)
 
 
    
@@ -415,6 +431,9 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 
 ### Data Visualization
 ---
+![Screenshot 2024-11-05 163233](https://github.com/user-attachments/assets/d26badb7-34ad-437f-87df-7db5b3ff5931)
+![Screenshot 2024-11-05 163448](https://github.com/user-attachments/assets/4eaf71ff-4397-40e1-b75e-78b7fe539d28)
+![Screenshot 2024-11-05 165304](https://github.com/user-attachments/assets/c773d45f-b63a-4881-9aa7-5fb2959511ed)
 
 
 
@@ -457,6 +476,11 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 
 ### Data Visualization
 ---
+![Screenshot 2024-11-05 171656](https://github.com/user-attachments/assets/c8ed6747-ccbe-4a80-a5ae-9062e69aec04)
+![Screenshot 2024-11-05 171506](https://github.com/user-attachments/assets/8d4f25fb-b79b-4c14-b7d8-06c4c9ea568b)
+![Screenshot 2024-11-05 172150](https://github.com/user-attachments/assets/1ae7ae29-af06-417a-9aa5-1a9483a6ed59)
+![Screenshot 2024-11-05 172110](https://github.com/user-attachments/assets/6de44634-9546-4f1d-ae42-0936b4b62ac9)
+
 
 
    
