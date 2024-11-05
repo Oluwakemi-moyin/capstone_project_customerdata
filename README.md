@@ -1,4 +1,4 @@
-# Customer Segmentation for a Subscription Service
+# Customer Segmentation for Linkit Subscription Service
 
 [Project Overview](#project-overview) 
 
@@ -25,7 +25,7 @@
 
 ### Project Overview
 ---
-An Internet Provider Company seeks to obtain the comprehensive analysis of its customer data for its subscription service across a defined period to gain valuable insights into customer segmentation & trends, customers behavior, track subscription types, key trends in cancellations & renewals and regional performances.
+An Internet Provider seeks to obtain the comprehensive analysis of its customer data for its subscription service across a defined period to gain valuable insights into customer segmentation & trends, customers behavior, track subscription types, key trends in cancellations & renewals and regional performances.
 
 ### Problem
 ---
@@ -86,7 +86,7 @@ Well I approached it in 5 steps:
    - Microsoft Excel- Use of formulas like Subscription Duration
       - Pivot table
         - for calculations like; , Average Revenue, Distinct Count of Customers, Top 10 Customers by Revenue and
-        - to show results like; Total Subscription duration, Total Revenue by Region and Subscription type, Number of Cancellations and Renewals, Region/Subscription type by                   Distinct count of customers.
+        - to show results like; Total Subscription duration, Total Revenue by Region and Subscription type, Number of Cancellations and Renewals, Region/Subscription type by  Distinct count of customers.
         FORMULA:
         ```
          Subscription Duration = (Subscription End - Subscription Start)
